@@ -1,0 +1,130 @@
+id,slug,name,refText,text,gameModes
+1,"taunt
+",Taunt,Enemies must attack minions that have Taunt.,Enemies must attack this minion.,"[1, 2, 5, 7]"
+2,"spell-damage
+",Spell Damage,Your spells deal extra damage.,Your spell cards deal extra damage.,"[1, 5]"
+3,divine-shield,Divine Shield,"The first time a Shielded character takes damage, ignore it.","The first time this takes damage, ignore it.","[1, 2, 5]"
+4,charge,Charge,Can attack immediately.,Can attack immediately.,"[1, 5]"
+5,"secret
+",Secret,Hidden until a specific action occurs on your opponent's turn.,Hidden until a specific action occurs on your opponent's turn.,"[1, 5]"
+6,"stealth
+",Stealth,Can't be attacked or targeted until it attacks.,Can't be attacked or targeted until it attacks.,"[1, 2, 5]"
+8,"battlecry
+",Battlecry,Does something when you play it from your hand.,Does something when you play it from your hand.,"[1, 2, 5, 7]"
+10,"freeze
+",Freeze,Frozen characters lose their next attack.,Frozen characters lose their next attack.,"[1, 5]"
+11,"windfury
+",Windfury,Can attack twice each turn.,Can attack twice each turn.,"[1, 2, 5]"
+12,"deathrattle
+",Deathrattle,Does something when it dies.,Does something when it dies.,"[1, 2, 5, 7]"
+13,"combo
+",Combo,A bonus if you already played a card this turn.,A bonus if you already played a card this turn.,"[1, 5]"
+14,"overload:-x
+",Overload: X,Cards with Overload limit your mana next turn.,You have X less mana next turn.,"[1, 5]"
+15,"silence
+",Silence,Removes all card text and enchantments.,Removes all card text and enchantments.,"[1, 5]"
+16,"counter
+",Counter,A card that is Countered has no effect.,A card that is Countered has no effect.,"[1, 5]"
+17,immune,Immune,Immune characters can't be targeted by enemies or damaged.,Can't be targeted by enemies or damaged.,"[1, 5]"
+19,"spare-parts
+",Spare Parts,Spare Parts are 1-Cost spells with minor effects.,Spare Parts are 1-Cost spells with minor effects.,[1]
+20,"inspire
+",Inspire,Does something after you use your Hero Power.,Does something after you use your Hero Power.,[1]
+21,"discover
+",Discover,Choose one of three cards to add to your hand.,Choose one of three cards to add to your hand.,"[1, 2, 5]"
+31,"quest
+",Quest,Starts in your hand. Complete for a reward.,Starts in your hand. Complete for a reward.,"[1, 5]"
+32,"poisonous
+",Poisonous,Destroy any minion damaged by this.,Destroy any minion damaged by this.,"[1, 5]"
+34,"adapt
+",Adapt,Choose one of 3 bonuses.,Choose one of 3 bonuses.,[1]
+38,"lifesteal
+",Lifesteal,Damage dealt also heals your hero.,Damage dealt also heals your hero.,"[1, 5]"
+39,"recruit
+",Recruit,Summon a minion from your deck.,Summon a minion from your deck.,[1]
+52,"echo
+",Echo,Repeatable the turn you play this. Copies can't cost less than (1).,Repeatable the turn you play this. Copies can't cost less than (1).,[1]
+53,"rush
+",Rush,Can attack minions immediately.,Can attack minions immediately.,"[1, 5]"
+61,"overkill
+",Overkill,Deal excess damage on your turn for a bonus.,Deal excess damage on your turn for a bonus.,[1]
+64,"start-of-game
+",Start of Game,Does something before the first turn.,Does something before the first turn.,"[1, 5]"
+66,"magnetic
+",Magnetic,Play this to the left of a Mech to fuse them together!,Play this to the left of a Mech to fuse them together!,"[1, 2]"
+71,"lackey
+",Lackey,Lackeys are 1-Cost minions with Battlecries.,Lackeys are 1-Cost minions with Battlecries.,[1]
+76,"twinspell
+",Twinspell,Can be cast twice.,Can be cast twice.,[1]
+77,"mega-windfury
+",Mega-Windfury,Can attack four times each turn.,Can attack four times each turn.,"[1, 5]"
+78,"reborn
+",Reborn,Resurrects with 1 Health the first time it dies.,Resurrects with 1 Health the first time it dies.,"[1, 2, 5]"
+79,"invoke
+",Invoke,Use Galakrond's Power.,Use Galakrond's Power.,[1]
+86,"outcast
+",Outcast,A bonus if played as the left- or right-most card in hand.,A bonus if played as the left- or right-most card in hand.,"[1, 5]"
+88,"spellburst
+",Spellburst,A one-time effect after you cast a spell.,A one-time effect after you cast a spell.,[1]
+89,"sidequest
+",Sidequest,Complete for a reward.,Complete for a reward.,"[1, 5]"
+91,"corrupt
+",Corrupt,Upgrades in hand after you play a card that costs more.,Upgrades in hand after you play a card that costs more.,[1]
+96,"questline
+",Questline,"Starts in your hand. Complete for a reward, up to 3 times!","Starts in your hand. Complete for a reward, up to 3 times!",[1]
+97,"tradeable
+",Tradeable,Drag this into your deck to spend 1 Mana and draw a new card.,Drag this into your deck to spend 1 Mana and draw a new card.,"[1, 5]"
+99,"frenzy
+",Frenzy,A one-time effect after this survives damage.,A one-time effect after this survives damage.,[1]
+100,"honorable-kill
+",Honorable Kill,Deal exact lethal damage on your turn for a bonus.,Deal exact lethal damage on your turn for a bonus.,[1]
+104,"nature-spell-damage
+",Nature Spell Damage,Your Nature spells deal extra damage.,Your Nature spell cards deal extra damage.,[1]
+109,"blood-gem
+",Blood Gem,A spell that gives a minion +1/+1.,A spell that gives a minion +1/+1.,[2]
+196,"refresh
+",Refresh,Replace the Tavern with new cards.,Replace the Tavern with new cards.,[2]
+198,"avenge-(x)
+",Avenge (X),Does something after X friendly minions die in combat.,Does something after X friendly minions die in combat.,[2]
+231,"colossal-+x
+",Colossal +X,"When summoned, spawns X additional appendages.","When summoned, spawns X additional appendages.","[1, 5]"
+232,"dredge
+",Dredge,Look at the bottom 3 cards of your deck. Put one on top.,Look at the bottom 3 cards of your deck. Put one on top.,[1]
+234,"spellcraft
+",Spellcraft,Get a temporary spell every turn.,Get a temporary spell every turn.,[2]
+238,"infuse
+",Infuse,Upgrades in hand after X friendly minions die.,Upgrades in hand after X friendly minions die.,[1]
+247,"corpse
+",Corpse,Resource gained when a friendly minion dies.,Resource gained when a friendly minion dies.,"[1, 5]"
+255,"finale
+",Finale,A bonus if this spends all your remaining Mana.,A bonus if this spends all your remaining Mana.,[1]
+256,"overheal
+",Overheal,A bonus if restored past full Health.,A bonus if restored past full Health.,[1]
+257,"manathirst-(x)
+",Manathirst (X),A bonus if you have X Mana Crystals.,A bonus if you have X Mana Crystals.,[1]
+261,"venomous
+",Venomous,Destroy the first minion this deals damage to.,Destroy the first minion this deals damage to.,[2]
+265,elusive,Elusive,Can't be targeted by spells or Hero Powers.,Can't be targeted by spells or Hero Powers.,"[1, 5]"
+266,"forge		
+",Forge,Drag this to your deck to spend (2) Mana for an upgrade.,Drag this to your deck to spend (2) Mana for an upgrade.,[1]
+270,"titan
+",Titan,Click on a Titan to use 1 of 3 abilities instead of attacking.,Click on a Titan to use 1 of 3 abilities instead of attacking.,"[1, 5]"
+294,miniaturize,Miniaturize,Get a 1-Cost 1/1 copy of this.,Get a 1-Cost 1/1 copy of this.,[1]
+295,mini,Mini,A 1-Cost 1/1 copy of another card.,A 1-Cost 1/1 copy of another card.,[1]
+297,"quickdraw
+",Quickdraw,A bonus if this entered your hand this turn.,A bonus if this entered your hand this turn.,[1]
+298,"excavate
+",Excavate,Dig for increasingly rarer treasures. Resets after the highest Rarity.,Dig for increasingly rarer treasures. Resets after the highest Rarity.,[1]
+300,pass,Pass,Send to your teammate's hand.,Send to your teammate's hand.,[2]
+303,buddy,Buddy,A powerful minion unique to each Hero Power.,A powerful minion unique to each Hero Power.,[2]
+318,imbue,Imbue,Get a new Hero Power that upgrades each time you Imbue.,Get a new Hero Power that upgrades each time you Imbue.,"[1, 5]"
+319,dark-gift,Dark Gift,A bonus attached to a minion.,A bonus attached to a minion.,"[1, 5]"
+320,temporary,Temporary,Discarded at the end of your turn.,Discarded at the end of your turn.,"[1, 5]"
+323,starship,Starship,Has the stats and effects of your dead Pieces. Click to launch!,Has the stats and effects of your dead Pieces. Click to launch!,[1]
+344,rewind,Rewind,May be replayed once for a potentially different outcome.,May be replayed once for a potentially different outcome.,"[1, 5]"
+351,kindred,Kindred,A bonus if you played the same minion type/spell school last turn.,A bonus if you played the same minion type/spell school last turn.,"[1, 5]"
+356,fabled,Fabled,Also adds 2 unique cards to your starting deck.,Also adds 2 unique cards to your starting deck.,"[1, 5]"
+357,fabled+,Fabled+,Also adds 9 unique cards to your starting deck.,Also adds 9 unique cards to your starting deck.,"[1, 5]"
+360,rally,Rally,Does something whenever it attacks.,Does something whenever it attacks.,[2]
+378,herald,Herald,Summon your colossal's appendage as a soldier. Upgrade them every 2 Heralds.,Summon your colossal's appendage as a soldier. Upgrade them every 2 Heralds.,"[1, 5]"
+382,prepare,Prepare,"Drag to your deck to spend leftover Mana. Next turn, discount this by the amount spent (plus 1 extra!)","Drag to your deck to spend leftover Mana. Next turn, discount this by the amount spent (plus 1 extra!)","[1, 5]"

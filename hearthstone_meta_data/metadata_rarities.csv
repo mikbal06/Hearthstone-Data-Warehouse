@@ -1,0 +1,6 @@
+slug,id,craftingCost,dustValue,name
+common,1,"[40, 400]","[5, 50]",Common
+free,2,"[None, None]","[None, None]",Free
+rare,3,"[100, 800]","[20, 100]",Rare
+epic,4,"[400, 1600]","[100, 400]",Epic
+legendary,5,"[1600, 3200]","[400, 1600]",Legendary

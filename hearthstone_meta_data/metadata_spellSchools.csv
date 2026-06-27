@@ -1,0 +1,10 @@
+slug,id,name,gameModes
+arcane,1,Arcane,"[1, 5]"
+fire,2,Fire,"[1, 5]"
+frost,3,Frost,"[1, 5]"
+nature,4,Nature,"[1, 5]"
+holy,5,Holy,"[1, 5]"
+shadow,6,Shadow,"[1, 5]"
+fel,7,Fel,"[1, 5]"
+lesser_trinket,11,Lesser,[2]
+greater_trinket,12,Greater,[2]

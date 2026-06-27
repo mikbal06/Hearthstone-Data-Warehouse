@@ -1,0 +1,26 @@
+slug,id,name,gameModes
+bloodelf,1,Blood Elf,[7]
+draenei,2,Draenei,"[1, 5, 7]"
+dwarf,3,Dwarf,[7]
+gnome,4,Gnome,[7]
+human,6,Human,[7]
+nightelf,7,Night Elf,[7]
+orc,8,Orc,[7]
+tauren,9,Tauren,[7]
+troll,10,Troll,[7]
+undead,11,Undead,"[1, 2, 5, 7]"
+murloc,14,Murloc,"[1, 2, 5, 7]"
+demon,15,Demon,"[1, 2, 5, 7]"
+mech,17,Mech,"[1, 2, 5]"
+elemental,18,Elemental,"[1, 2, 5, 7]"
+beast,20,Beast,"[1, 2, 5, 7]"
+totem,21,Totem,"[1, 5]"
+pirate,23,Pirate,"[1, 2, 5]"
+dragon,24,Dragon,"[1, 2, 5, 7]"
+all,26,All,"[1, 2, 5]"
+quilboar,43,Quilboar,"[1, 2, 5]"
+halforc,88,Half-Orc,
+naga,92,Naga,"[1, 2, 5, 7]"
+oldgod,93,Old God,[7]
+pandaren,94,Pandaren,[7]
+gronn,95,Gronn,[7]

@@ -1,0 +1,10 @@
+slug,id,name,gameModes
+hero,3,Hero,"[1, 5]"
+minion,4,Minion,"[1, 2, 5, 7]"
+spell,5,Spell,"[1, 2, 5]"
+weapon,7,Weapon,"[1, 5]"
+hero power,10,HeroPower,[2]
+location,39,Location,"[1, 5]"
+baconquestreward,40,Reward,[2]
+trinket,44,Trinket,[2]
+timewarp,999,Timewarp,[2]
